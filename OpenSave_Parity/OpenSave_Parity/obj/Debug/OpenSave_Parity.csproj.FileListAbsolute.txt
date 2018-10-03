@@ -1,0 +1,11 @@
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\bin\Debug\OpenSave_Parity.exe.config
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\bin\Debug\OpenSave_Parity.exe
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\bin\Debug\OpenSave_Parity.pdb
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.csprojAssemblyReference.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.Form1.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.Form2.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.Properties.Resources.resources
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.csproj.GenerateResource.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.csproj.CoreCompileInputs.cache
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.exe
+D:\Users\ASIOFX4300\Projekty\DO SZKOŁY\Informatyka\C#\OpenSave_Parity\OpenSave_Parity\obj\Debug\OpenSave_Parity.pdb
